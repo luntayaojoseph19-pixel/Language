@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio App Builder",
+  "description": "Interactive application workspace and project builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
